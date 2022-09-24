@@ -62,7 +62,7 @@ readonly NET_GETTER="curl -fsSLk"
 readonly CASA_CONF_PATH=/etc/casaos/gateway.ini
 readonly CASA_UNINSTALL_URL="https://raw.githubusercontent.com/IceWhaleTech/get/main/uninstall.sh"
 readonly CASA_UNINSTALL_PATH=/usr/bin/casaos-uninstall
-readonly CASA_VERSION_URL="https://api.casaos.io/casaos-api/version"
+readonly CASA_VERSION_URL="https://github.littlejerry.tk/https://api.casaos.io/casaos-api/version"
 
 # REQUIREMENTS CONF PATH
 # Udevil
